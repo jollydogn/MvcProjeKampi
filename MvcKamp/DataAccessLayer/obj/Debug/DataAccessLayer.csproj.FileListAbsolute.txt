@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\musta\OneDrive\Masaüstü\MvcKamp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
